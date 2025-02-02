@@ -1,0 +1,93 @@
+.menu-item img {
+    width: 80%;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+}
+
+body {background-color:rgb(226, 213, 163);}
+
+#para{
+    text-align: center;
+     font-size: 18px; 
+     font-family: 'Georgia';
+      color: rgb(75,0,130);
+}
+
+#welcome {
+    text-align: center; 
+    font-size: 50px; 
+    font-family: Arial; 
+    color: rgb(255,69,0);
+}
+#aboutus{
+    text-decoration: underline;
+    text-align: center; 
+    font-family: 'Verdana'; 
+    color: rgb(34,139,34);
+}
+#para2 {
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    line-height: 1.5; 
+    color: rgb(75,0,130);
+    text-align: center;
+}
+#info {
+    color: royalblue;
+}
+
+#food1{    
+    text-align: center; 
+    width: 35%;
+    display: inline-block;
+
+
+}
+
+#food2 {
+    margin-left: -55px;
+    text-align: center;
+    width: 35%;
+    display: inline-block;
+    
+}
+
+
+.menu{
+    display: inline;
+    text-align: center; 
+    width: 35%;
+}
+#foodname {
+    font-family: Arial;
+    color: rgb(139, 0, 0);
+    font-size: 25px;
+}
+#Gallery {
+    text-align: center;
+    color: green;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#gallerypara {
+    text-align: center;
+    font-family: 'Courier New';
+    color: rgb(85,107,47);
+    font-size: 20px;
+}
+
+#email {
+    font-weight: bold;
+    text-decoration: none;
+    color: green;
+}
+#footer {
+    text-align: center;
+}
+
+#interior {
+    text-align: center;
+    font-family: 'Courier New';
+    color: rgb(85,107,47);
+    font-size: 30px;
+}
